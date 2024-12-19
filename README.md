@@ -69,6 +69,7 @@ El propósito principal de este proyecto fue:
 🌟 Vista previa de la Landing Page
 ![Vista previa](image.png)
 
+## Puedes visitarla en https://fjmoisesromero.github.io/Landing-Page-Banco/
 
 ## 🤝 Contribuciones
 Este proyecto fue creado con fines de aprendizaje, pero cualquier sugerencia o mejora es bienvenida.
