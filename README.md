@@ -67,7 +67,7 @@ El propósito principal de este proyecto fue:
 
 ## 📸 Capturas del proyecto
 🌟 Vista previa de la Landing Page
-
+![Vista previa](image.png)
 
 
 ## 🤝 Contribuciones
